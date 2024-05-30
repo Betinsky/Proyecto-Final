@@ -18,7 +18,7 @@ Representa la lógica de negocio y la estructura de datos de la aplicación. Se 
 
 ### Vista (View)
 
-Es la interfaz de usuario de la aplicación. La vista muestra los datos del modelo al usuario y envía las acciones del usuario al controlador. En tu proyecto, los archivos de la vista están en el paquete `Vista`. Estos incluyen:
+Es la interfaz de usuario de la aplicación. La vista muestra los datos del modelo al usuario y envía las acciones del usuario al controlador. En el proyecto, los archivos de la vista están en el paquete `Vista`. Estos incluyen:
 
 - `addUsuarios.java`
 - `editUsuarios.java`
@@ -35,7 +35,7 @@ Es la interfaz de usuario de la aplicación. La vista muestra los datos del mode
 
 ### Controlador (Controller)
 
-Actúa como un intermediario entre el modelo y la vista. Recibe la entrada del usuario desde la vista, procesa la entrada con el modelo y actualiza la vista. En tu proyecto, los archivos del controlador están en el paquete `Controlador`. Estos incluyen:
+Actúa como un intermediario entre el modelo y la vista. Recibe la entrada del usuario desde la vista, procesa la entrada con el modelo y actualiza la vista. En el proyecto, los archivos del controlador están en el paquete `Controlador`. Estos incluyen:
 
 - `ControlReports.java`
 - `ControladorReportePreesincripcion.java`
@@ -48,7 +48,7 @@ Actúa como un intermediario entre el modelo y la vista. Recibe la entrada del u
 
 ### Conexión a la Base de Datos
 
-Además, hay un paquete `com.mysql.jdbc` que probablemente se utiliza para la conexión a la base de datos, y contiene:
+Además, hay un paquete `com.mysql.jdbc` que  se utiliza para la conexión a la base de datos, y contiene:
 
 - `Connection.java`
 
