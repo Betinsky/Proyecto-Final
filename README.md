@@ -71,7 +71,7 @@ Antes de ejecutar este sistema, asegúrate de tener instalado lo siguiente:
 
 3. Actualiza la información de conexión a la base de datos en el archivo `ConfiguracionBD.java` con tus credenciales de MySQL.
 
- ### Configurar Correo Electrónico:
+ ## Configurar Correo Electrónico:
 Antes de utilizar el componente, asegúrate de configurar el correo electrónico desde el cual se enviarán los mensajes, así como el servidor SMTP. 
 Para hacer esto, busca en el código del componente la sección donde se especifica el servidor SMTP y el puerto del correo electrónico:
 
@@ -86,4 +86,19 @@ Para hacer esto, busca en el código del componente la sección donde se especif
 String username = "tucorreo@gmail.com"; // Cambia por tu dirección de correo electrónico 
 
 String password = "tupassword"; // Cambia por tu contraseña 
+
+## Utilizar el Progerama
+
+Una vez hayas configurado la Base de Datos, Configurado las credenciales para las notificaciones de Correos Electronicos, Importado todas las Librerias de la carpeta Lib 
+
+* Daras click derecho en el proyecto y Clean and Build
+* Ejecutaras la Clase appPrincipal.java Y listo. Deberia dejarte Iniciar sesion ( usuario:admin pass:admin )
+
+![image](https://github.com/Betinsky/Proyecto-Final/assets/168485195/d49cc9ce-816d-48a0-b5c7-725946ccf453)
+
+* Pulsaras Aceptar y se te desplegara el menu principal
+
+![image](https://github.com/Betinsky/Proyecto-Final/assets/168485195/133f0259-0b56-483f-a72d-d95287ff5a2e)
+
+
 
