@@ -91,6 +91,9 @@ String password = "tupassword"; // Cambia por tu contraseña
 
 Una vez hayas configurado la Base de Datos, Configurado las credenciales para las notificaciones de Correos Electronicos, Importado todas las Librerias de la carpeta Lib 
 
+
+## Manual de Usuario
+
 * Daras click derecho en el proyecto y Clean and Build
 * Ejecutaras la Clase appPrincipal.java Y listo. Deberia dejarte Iniciar sesion ( usuario:admin pass:admin )
 
