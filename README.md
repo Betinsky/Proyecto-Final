@@ -87,7 +87,7 @@ String username = "tucorreo@gmail.com"; // Cambia por tu dirección de correo el
 
 String password = "tupassword"; // Cambia por tu contraseña 
 
-## Utilizar el Progerama
+## Utilizar el Programa
 
 Una vez hayas configurado la Base de Datos, Configurado las credenciales para las notificaciones de Correos Electronicos, Importado todas las Librerias de la carpeta Lib 
 
