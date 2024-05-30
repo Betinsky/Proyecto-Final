@@ -71,3 +71,19 @@ Antes de ejecutar este sistema, asegúrate de tener instalado lo siguiente:
 
 3. Actualiza la información de conexión a la base de datos en el archivo `ConfiguracionBD.java` con tus credenciales de MySQL.
 
+ ### Configurar Correo Electrónico:
+Antes de utilizar el componente, asegúrate de configurar el correo electrónico desde el cual se enviarán los mensajes, así como el servidor SMTP. 
+Para hacer esto, busca en el código del componente la sección donde se especifica el servidor SMTP y el puerto del correo electrónico:
+
+String smtpServer = "smtp.example.com"; // Cambia "smtp.example.com" por tu servidor SMTP 
+
+String smtpPort = "el puerto"; // Cambia "el puerto" por el puerto SMTP correspondiente 
+
+Antes de utilizar el componente, asegúrate de configurar el correo electrónico desde el cual se enviarán los mensajes. 
+Para hacer esto, busca en el código del componente la sección donde se especifica el nombre de usuario y la contraseña del correo electrónico:
+
+
+String username = "tucorreo@gmail.com"; // Cambia por tu dirección de correo electrónico 
+
+String password = "tupassword"; // Cambia por tu contraseña 
+
