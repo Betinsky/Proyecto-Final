@@ -81,11 +81,18 @@
 ![image](https://github.com/Betinsky/Proyecto-Final/assets/126542373/fe7261a7-177b-49d0-9896-2711116870da)
 
 *Ahora vamos a crear una receta
-![image](https://github.com/Betinsky/Proyecto-Final/assets/126542373/d9b9a977-baa1-4100-a11d-8f57441e56e7)
-![image](https://github.com/Betinsky/Proyecto-Final/assets/126542373/b1420d36-f9cf-43ae-8423-5829b21ab75d)
+![image](https://github.com/Betinsky/Proyecto-Final/assets/126542373/2a0cc9bd-21ea-40c3-81fa-e3f721770596)
+![image](https://github.com/Betinsky/Proyecto-Final/assets/126542373/0a9d7e54-7239-41d1-b865-df61c6450d4e)
+
+*Le damos clic en guardar
+![image](https://github.com/Betinsky/Proyecto-Final/assets/126542373/bd0df6e0-1079-467a-95ec-1997ab2327ce)
+
+
+
+
 
 *Para ver la receta le damos clic al boton "Ver receta"
-![image](https://github.com/Betinsky/Proyecto-Final/assets/126542373/8d6b88d4-ecbf-49cf-b866-9506af4f01de)
+![image](https://github.com/Betinsky/Proyecto-Final/assets/126542373/35b3a129-120e-400f-9f13-00c82c59ef40)
 
 *La receta la podemos ver (paciente) al enviar por el correo electronico 
 ![image](https://github.com/Betinsky/Proyecto-Final/assets/126542373/ab832b96-a87a-446c-8e72-83be637dd041)
