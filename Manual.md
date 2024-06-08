@@ -77,3 +77,15 @@
 *Rellenamos los datos
 ![image](https://github.com/Betinsky/Proyecto-Final/assets/126542373/800bdfbf-d512-4678-b5f9-e3404c6d220b)
 
+*Le damos clic en actualizar paciente
+![image](https://github.com/Betinsky/Proyecto-Final/assets/126542373/fe7261a7-177b-49d0-9896-2711116870da)
+
+*Ahora vamos a crear una receta
+![image](https://github.com/Betinsky/Proyecto-Final/assets/126542373/d9b9a977-baa1-4100-a11d-8f57441e56e7)
+![image](https://github.com/Betinsky/Proyecto-Final/assets/126542373/b1420d36-f9cf-43ae-8423-5829b21ab75d)
+
+*Para ver la receta le damos clic al boton "Ver receta"
+![image](https://github.com/Betinsky/Proyecto-Final/assets/126542373/8d6b88d4-ecbf-49cf-b866-9506af4f01de)
+
+
+
