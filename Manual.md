@@ -87,5 +87,9 @@
 *Para ver la receta le damos clic al boton "Ver receta"
 ![image](https://github.com/Betinsky/Proyecto-Final/assets/126542373/8d6b88d4-ecbf-49cf-b866-9506af4f01de)
 
+*La receta la podemos ver (paciente) al enviar por el correo electronico 
+![image](https://github.com/Betinsky/Proyecto-Final/assets/126542373/ab832b96-a87a-446c-8e72-83be637dd041)
+
+
 
 
