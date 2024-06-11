@@ -1,4 +1,4 @@
-# Proyecto Final TAP
+# Proyecto Final
 
 # Sistema de Control Médico
 
